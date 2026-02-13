@@ -15,7 +15,7 @@ Linear Regression (Scikit-learn)
 - Scikit-learn
 
 ## Result
-The model achieved a good R² score indicating strong prediction performance.
+The model achieved a good R² score of 0.98, indicating strong prediction performance.
 
 ## Author
 Maryam Hasan(AI & DS Student)
